@@ -3,6 +3,7 @@
 #include <string>
 using namespace std;
 
+//**Notes for this coding challenge are in a separate JPG file titled "Coding Challenge Notes (Landon Stephens)"**
 
 int ConvertRomanToDecimal (string romNumeral) {
     int number = 0;
